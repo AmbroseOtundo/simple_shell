@@ -94,6 +94,4 @@ Step 4: Run the shell
 Press on Ctrl + D
 
 # Collaborators
-Candy Chebet
-
-Ben Oketch
+Ambrose Otundo and Victor Ali
